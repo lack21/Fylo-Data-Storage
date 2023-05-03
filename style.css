@@ -215,7 +215,7 @@ body {
   }
   .main .right-content .box {
     top: calc(100% - 35px);
-    right: calc(50% - 85px);
+    right: calc(50% - 98px);
   }
   .main .right-content .box::after {
     display: none;
